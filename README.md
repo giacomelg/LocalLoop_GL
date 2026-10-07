@@ -9,3 +9,6 @@ Continuation du cahier des charges.
 
 28/09->02/10
 Fin rédaction cahier des charges et début d'analyse du projet avec v1 MCD.
+
+05/10->11/10
+Analyse des fonctionnalités/règles métier pour les cas d'utilisateur.
