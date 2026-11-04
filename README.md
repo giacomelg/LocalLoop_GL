@@ -18,3 +18,6 @@ Analyse des cas d'utilisation.
 
 19/10->25/10
 Fin analyse des cas d'utilisation, mise à jour du MCD et début des écrans/maquettes.
+
+02/11->08/11
+Finalisation du cahier d'analyse
